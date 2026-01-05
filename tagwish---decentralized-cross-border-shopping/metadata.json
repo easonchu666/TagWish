@@ -1,8 +1,0 @@
-{
-  "name": "TAGWISH - Decentralized Cross-Border Shopping",
-  "description": "A premium platform connecting global shoppers with verified travelers to fulfill product wishes worldwide using AI-powered verification and escrow.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
